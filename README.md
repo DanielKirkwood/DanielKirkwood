@@ -9,5 +9,6 @@ My name is Daniel Kirkwood and I'm a current 3rd year software engineering stude
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DanielKirkwood&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&hide_rank=true&theme=vue-dark&line_height=33" />
 </a>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@DanielKirkwood&theme=vue-dark)](https://wakatime.com/dashboard)
+..image:: https://wakatime.com/share/@DanielKirkwood/fed7be14-1233-4a38-a2b3-5b394a68cfff.png
+    :target: https://wakatime.com/
 
