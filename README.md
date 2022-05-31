@@ -1,6 +1,6 @@
 <h1 align="center">Hi visitor, I'm Daniel!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 <p align="center">
-<a href="https://github.com/DanielKirkwood"><img align="center" src="https://github.com/DanielKirkwood/DanielKirkwood/profile.png" alt="Daniel's headshot" height="100" width="100"></a>
+<a href="https://github.com/DanielKirkwood"><img align="center" src="https://github.com/DanielKirkwood/DanielKirkwood/blob/main/daniel-kirkwood-headhsot.png" alt="Daniel's headshot" height="250" width="250"></a>
 </p>
 <h3 align="center">A Software Engineer from Glasgow</h3>
 
